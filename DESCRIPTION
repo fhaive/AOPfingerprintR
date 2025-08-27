@@ -1,0 +1,13 @@
+Package: AOPfingerprintR
+Title: Curated Gene Annotation of Adverse Outcome Pathways Related to Human Health
+Version: 0.0.1
+Description: The package contains lists of gene identifiers mapped to adverse outcome pathways and their key events as described in https://doi.org/10.1038/s41597-023-02321-w. Available gene identifiers are Ensembl, Symbol, and Entrez.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5.0)
+LazyData: true
+Author: [Angela Serra] <angela.serra@tuni.fi>
+Maintainer: [Angela Serra] <angela.serra@tuni.fi>
