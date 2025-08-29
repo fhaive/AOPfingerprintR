@@ -64,7 +64,7 @@ The project is **ongoing**.
 
 ## 📊 Sample Data
 Example data for bleomycin exposure at multiple doses and time points is available here:  
-[**Bleomycin Data**](https://github.com/fhaive/AOPfingerprintR/tree/master/sample_inputs)
+[**Bleomycin Data**](https://github.com/fhaive/AOPfingerprintR/tree/main/sample_inputs)
 
 ## 📝 Example Usage of *AOPfingerprintR*
 
