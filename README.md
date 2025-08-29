@@ -27,7 +27,7 @@
 
 ## 📖 Manual
 The package manual is available here:  
-[**AOPfingerprintR_0.0.1.pdf**](https://github.com/fhaive/AOPfingerprintR/blob/master/AOPfingerprintR_0.0.1.pdf)
+[**AOPfingerprintR_0.0.1.pdf**](https://github.com/fhaive/AOPfingerprintR/blob/main/AOPfingerprintR_0.0.1.pdf)
 
 The manual was generated using:
 ```r
