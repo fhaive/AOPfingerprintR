@@ -1,7 +1,7 @@
 Package: AOPfingerprintR
 Title: Curated Gene Annotation of Adverse Outcome Pathways Related to Human Health
 Version: 0.0.1
-Description: The package contains lists of gene identifiers mapped to adverse outcome pathways and their key events as described in https://doi.org/10.1038/s41597-023-02321-w. Available gene identifiers are Ensembl, Symbol, and Entrez.
+Description: The package contains lists of gene identifiers mapped to adverse outcome pathways and their key events as described in https://doi.org/10.1038/s41597-023-02321-w. Available gene identifiers are Ensembl, Symbol, and Entrez. Furthermore the package provides functions to enrich Key events and AOPs, performe the AOPfingerprint analysis described in https://doi.org/10.1002/advs.202203984 and to plot the KE-KE interaction network resulting from KE enrichment analysis.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
