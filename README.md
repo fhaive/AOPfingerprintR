@@ -159,7 +159,7 @@ vn
 ```
 
 
-### 2️⃣ Example wit numerical variables
+### 2️⃣ Example with numerical variables
 
 In this case, each gene in the input lists has associated BMD, BMDL, and BMDU values.
 
