@@ -36,7 +36,21 @@ devtools::build_manual(path = ".")
 
 ---
 
-## 💻 Installation
+## 💻 Installation (from GitHub)
+
+1. **Get "remotes" package**:
+
+   ```r
+   install.packages("remotes")
+   ```
+   
+2. **Install the package from GitHub**
+   
+   ```r
+   remotes::install_github(repo="fhaive/AOPfingerprintR")
+   ```
+   
+## 💻 Installation (build local)
 
 1. **Create tar.gz file**:  
 
